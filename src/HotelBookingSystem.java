@@ -31,7 +31,7 @@ public class HotelBookingSystem {
 		
 		hb.makeBooking(room, checkindate, checkoutdate);
 		hb.makeBooking(room1, checkindate1, checkoutdate1);
-		hb.cancelBooking(1);
+		//hb.cancelBooking(1);
 		
 	}
 
